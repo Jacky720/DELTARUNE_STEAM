@@ -1,0 +1,9 @@
+https://steamdb.info/depot/1690941/manifests/
+Previously seen manifests
+SEEN DATE	RELATIVE DATE	MANIFESTID
+23 September 2021 – 07:50:26 UTC	2 days ago	2438050533604741459
+21 September 2021 – 09:15:57 UTC	3 days ago	8068723090824935880
+19 September 2021 – 09:49:20 UTC	5 days ago	5665575182022562169
+18 September 2021 – 04:05:18 UTC	7 days ago	6399680291216263180
+18 September 2021 – 01:26:04 UTC	7 days ago	3058538026860111700
+17 September 2021 – 23:57:25 UTC	7 days ago	1237260587432546177
