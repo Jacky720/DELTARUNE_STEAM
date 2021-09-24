@@ -1,0 +1,27 @@
+https://steamdb.info/app/1690940/
+
+mkdir 2438050533604741459
+mkdir 8068723090824935880
+mkdir 5665575182022562169
+mkdir 6399680291216263180
+mkdir 3058538026860111700
+mkdir 1237260587432546177
+
+dotnet DepotDownloader.dll -app 1690940 -depot 1690941 -manifest 2438050533604741459 -username USERNAME -password PASSWORD -dir 2438050533604741459
+dotnet DepotDownloader.dll -app 1690940 -depot 1690941 -manifest 8068723090824935880 -username USERNAME -password PASSWORD -dir 8068723090824935880
+dotnet DepotDownloader.dll -app 1690940 -depot 1690941 -manifest 5665575182022562169 -username USERNAME -password PASSWORD -dir 5665575182022562169
+dotnet DepotDownloader.dll -app 1690940 -depot 1690941 -manifest 6399680291216263180 -username USERNAME -password PASSWORD -dir 6399680291216263180
+dotnet DepotDownloader.dll -app 1690940 -depot 1690941 -manifest 3058538026860111700 -username USERNAME -password PASSWORD -dir 3058538026860111700
+dotnet DepotDownloader.dll -app 1690940 -depot 1690941 -manifest 1237260587432546177 -username USERNAME -password PASSWORD -dir 1237260587432546177
+
+mkdir 408290741657472253
+mkdir 2887072643348165015
+mkdir 5026377994179576633
+mkdir 5548168708908177003
+mkdir 1784877745808614935
+
+dotnet DepotDownloader.dll -app 1690940 -depot 1690942 -manifest 408290741657472253 -username USERNAME -password PASSWORD -dir 408290741657472253
+dotnet DepotDownloader.dll -app 1690940 -depot 1690942 -manifest 2887072643348165015 -username USERNAME -password PASSWORD -dir 2887072643348165015
+dotnet DepotDownloader.dll -app 1690940 -depot 1690942 -manifest 5026377994179576633 -username USERNAME -password PASSWORD -dir 5026377994179576633
+dotnet DepotDownloader.dll -app 1690940 -depot 1690942 -manifest 5548168708908177003 -username USERNAME -password PASSWORD -dir 5548168708908177003
+dotnet DepotDownloader.dll -app 1690940 -depot 1690942 -manifest 1784877745808614935 -username USERNAME -password PASSWORD -dir 1784877745808614935
